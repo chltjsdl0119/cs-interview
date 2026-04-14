@@ -5,7 +5,7 @@
 
 <summary><h2>Java</h2></summary>
 
-## OOP 기초
+## [OOP 기초](https://github.com/chltjsdl0119/cs-interview/blob/main/Java/OOP%20기초.md)
 
 ### 1. 클래스, 인스턴스, 객체의 차이점은 무엇인가요?
 ### 2. 객체지향 프로그래밍(OOP)의 4대 원칙을 설명해주세요.
